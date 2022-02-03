@@ -8,11 +8,16 @@
 - 💬 Ask me about *Deep Learning and basic ML stuff*
 - 📫 How to reach me: *please, text me on leon-1402@mail.ru*
 
-<div class="my-github-stats" style="display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=PnthrLeo&bg_color=30,711c91,091833&title_color=dcdcdc&text_color=dcdcdc&border_color=dcdcdc">
-</div>
-<div class="my-top-langs" style="display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PnthrLeo&bg_color=30,711c91,091833&title_color=dcdcdc&text_color=dcdcdc&border_color=dcdcdc">
-</div>
+<table align="left">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=PnthrLeo&bg_color=30,711c91,091833&title_color=dcdcdc&text_color=dcdcdc&border_color=dcdcdc">
+    </td>
+    <td>
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PnthrLeo&bg_color=30,711c91,091833&title_color=dcdcdc&text_color=dcdcdc&border_color=dcdcdc">
+    </td>
+  </row>
+</table> 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/PnthrLeo/PnthrLeo/output/github-contribution-grid-snake.svg)
