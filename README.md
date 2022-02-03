@@ -14,3 +14,5 @@
 <div class="my-top-langs" style="display:inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PnthrLeo&bg_color=30,711c91,091833&title_color=dcdcdc&text_color=dcdcdc&border_color=dcdcdc">
 </div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/PnthrLeo/PnthrLeo/output/github-contribution-grid-snake.svg)
