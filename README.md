@@ -1,10 +1,10 @@
-<h1 align="left">Hi there, I'm <a href="https://pnthrleo.me/" target="_blank">PnthrLeo</a> 
+<h1 align="center">Hi there, I'm <a href="https://pnthrleo.me/" target="_blank">PnthrLeo</a> 
 <img src="https://github.com/PnthrLeo/PnthrLeo/blob/main/resources/gifs/thinking_god.webp" height="32" style="vertical-align:middle"></h1>
 
-<div>
-  <a href="mailto:leon-1402@mail.ru" target="_blank" rel="nofollow"><img align="left" alt="Leo's Mail" width="40px" src="https://img.icons8.com/nolan/256/1A6DFF/C822FF/new-post.png" /></a>
-  <a href="https://t.me/PnthrLeo" target="_blank" rel="nofollow"><img align="left" alt="Leo's Telegram" width="40px" src="https://img.icons8.com/nolan/256/telegram-app.png" /></a>
-</div>
+<p align="center">
+  <a href="mailto:leon-1402@mail.ru" target="_blank" rel="nofollow"><img alt="Leo's Mail" width="40px" src="https://img.icons8.com/nolan/256/1A6DFF/C822FF/new-post.png" /></a>
+  <a href="https://t.me/PnthrLeo" target="_blank" rel="nofollow"><img alt="Leo's Telegram" width="40px" src="https://img.icons8.com/nolan/256/telegram-app.png" /></a>
+</p>
 <br>
 
 ## 🧑‍💻 About me
