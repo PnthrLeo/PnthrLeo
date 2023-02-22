@@ -1,6 +1,5 @@
 <h1 align="left">Hi there, I'm <a href="https://pnthrleo.me/" target="_blank">PnthrLeo</a> 
 <img src="https://github.com/PnthrLeo/PnthrLeo/blob/main/resources/gifs/thinking_god.webp" height="32" style="vertical-align:middle"></h1>
-<h3 align="left">Computer Science student & Data Scientist from Saint-Petersburg</h3>
 
 ## 🧑‍💻 About me
 
