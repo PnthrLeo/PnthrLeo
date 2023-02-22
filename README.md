@@ -5,7 +5,6 @@
   <a href="mailto:leon-1402@mail.ru" target="_blank" rel="nofollow"><img alt="Leo's Mail" width="40px" src="https://img.icons8.com/nolan/256/1A6DFF/C822FF/new-post.png" /></a>
   <a href="https://t.me/PnthrLeo" target="_blank" rel="nofollow"><img alt="Leo's Telegram" width="40px" src="https://img.icons8.com/nolan/256/telegram-app.png" /></a>
 </p>
-<br>
 
 ## 🧑‍💻 About me
 
