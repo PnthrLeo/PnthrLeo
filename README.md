@@ -8,18 +8,19 @@
 
 ## 🧑‍💻 About me
 
-My name is Leon Useinov. I'm currently studying for a master's degree in Deep Learning. Passionate about learning how technologies work and reading breakthrough machine learning papers. Dream of publication on A* conference and my own pixel-art computer game.
+My name is Leon Useinov. Currently work as a ML engineer at Neurocore using Python.
 
 ## 💼 Experience
 
-**Current Occupation**: 💼 Robert Bosch (since Dec 2021) as R&D Intern
+**Current Occupation**: 💼 Neurocore (since August 2024) as ML Engineer
 
+- 💼 **Ex**: R&D Intern at _Robert Bosch_, Python, December 2021 - July 2024
 - 💼 **Ex**: Junior Developer at _OptimalFlow Group_, Python, June 2021 - October 2021
 
 ## 🎓 Education
 
 - 🎓 Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2018-2022
-- 🎓 Master's Degree in Deep Learning, ITMO University (Applied Mathematics and Computer Science), 2022-2024
+- 🎓 Master's Degree in Deep Learning, ITMO University (Deep Learning and Generative Intelligence), 2022-2024
 
 ## 📈 Stats
 <p  align="center">
